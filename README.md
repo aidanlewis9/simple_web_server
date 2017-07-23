@@ -1,4 +1,4 @@
-Project 02 - README
+Simple Web Server - README
 ===================
 
 Members
